@@ -1,0 +1,11 @@
+{
+    "zhangsan": {
+        "auth":"*",
+        "group": "admin"
+    },
+   
+    "ops": {
+        "auth":"work  business base",
+        "group":"ops"
+    }
+}
